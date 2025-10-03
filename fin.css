@@ -1,0 +1,14 @@
+.dropdown{
+    height: 10vh;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+}
+
+.projects ul, 
+.products ul {
+    position: absolute;
+}
